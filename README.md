@@ -5,4 +5,5 @@ Where we solve our problems and their pros and cons.
 |:------:|:--------------:|:----------:|:-----------------:|:--------:|:-----------------:|
 |   leetcode.com   |              |          |                 |        |                 |         
 |   hackerrank.com   |              |          |                 |        |                 |         
-|   spoj.com   |              |          |                 |        |                 |       
+|   [SPOJ](spoj.com)  |              |          |                 |        |                 |      
+| [Interviews.school](https://interviews.school)|
